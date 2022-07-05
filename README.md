@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Leaderboard
+# Math Magicians
 
 > This is a website that allows users to add scores with their name
 
