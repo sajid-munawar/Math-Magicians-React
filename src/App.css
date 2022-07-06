@@ -1,5 +1,5 @@
 body {
-  background: #cccccc;
+  background: #ccc;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,8 +14,8 @@ body {
   display: inline-grid;
   row-gap: 1%;
   column-gap: 1%;
-  grid-template-columns: repeat(4,1fr);
-  grid-template-rows: repeat(6,1fr);
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(6, 1fr);
   text-align: center;
   justify-content: center;
 }
