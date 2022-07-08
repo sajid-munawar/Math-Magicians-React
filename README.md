@@ -2,27 +2,27 @@
 
 # Math Magicians
 
-> This is a website that allows users to add scores with their name
+> This is a website that allows users to do calculations
 
 
 ## Built With
 
-- HTML
-- Bootstrap
-- JavaScript
+- XML
+- CSS
+- React
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
 - Clone repository in your local machine 
-- cd Leaderboard
+- cd Math-Magicians-React
 - open `index.html` in your browser.
 - You can use live server.
 
 ## Live Demo
 
-[Todo Live](https://sajid-munawar.github.io/Leaderboard/)
+[Todo Live](https://sajid-munawar.github.io/Math-Magicians-React/)
 
 ## Author
 
@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/sajid-munawar/Leaderboard/issues)
+Feel free to check the [issues page](https://github.com/sajid-munawar/Math-Magicians-React/issues)
 
 ## Show your support
 

@@ -20,7 +20,12 @@ body {
   justify-content: center;
 }
 
-.container li {
+button {
+  border: none;
+  cursor: pointer;
+}
+
+.container button {
   display: block;
   background: #e0e0e0;
   padding: 4%;
