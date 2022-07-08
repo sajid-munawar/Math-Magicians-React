@@ -20,6 +20,11 @@ body {
   justify-content: center;
 }
 
+button {
+  border: none;
+  cursor: pointer;
+}
+
 .container button {
   display: block;
   background: #e0e0e0;
@@ -40,9 +45,4 @@ body {
 
 .y-bg {
   background: #f5913e !important;
-}
-
-button {
-  border: none;
-  cursor: pointer;
 }
