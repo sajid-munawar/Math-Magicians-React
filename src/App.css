@@ -20,7 +20,7 @@ body {
   justify-content: center;
 }
 
-.container li {
+.container button {
   display: block;
   background: #e0e0e0;
   padding: 4%;
@@ -40,4 +40,9 @@ body {
 
 .y-bg {
   background: #f5913e !important;
+}
+
+button {
+  border: none;
+  cursor: pointer;
 }
