@@ -6,6 +6,8 @@ function Qoute() {
       <Navbar />
       <div style={{
         maxWidth: '600px',
+        borderRadius: '10%',
+        boxShadow: '0 3px 10px rgba(0,0,0,0.3)',
         padding: '2%',
         margin: '0 auto',
         fontSize: '2rem',
