@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-[Todo Live](https://sajid-munawar.github.io/Math-Magicians-React/)
+[Math Magicians Live](https://admirable-eclair-cd85c3.netlify.app/)
 
 ## Author
 
