@@ -10,6 +10,7 @@
 - XML
 - CSS
 - React
+- Routers
 
 ## Getting Started
 
