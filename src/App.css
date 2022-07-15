@@ -1,11 +1,5 @@
 body {
   background: #ccc;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  box-sizing: border-box;
-  font-size: 1.5em;
 }
 
 .container {
@@ -45,4 +39,10 @@ button {
 
 .y-bg {
   background: #f5913e !important;
+}
+
+.parent {
+  display: flex;
+  justify-content: space-between;
+  padding: 5%;
 }

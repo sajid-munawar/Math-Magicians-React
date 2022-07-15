@@ -1,24 +1,23 @@
 import { Link } from 'react-router-dom';
+import styles from './Navbar.module.css';
 
 function Navbar() {
   return (
-    <nav className="navbar">
+    <div className={styles.container}>
       <h1>Math Magicians</h1>
-      <div className="links">
+      <nav>
         <Link to="/">Home</Link>
-        <Link
-          to="/Calculator"
-          style={{
-            color: 'white',
-            backgroundColor: '#f1356d',
-            borderRadius: '8px',
-          }}
-        >
-          Calculator
-        </Link>
-        <Link to="./Qoute">Qoute</Link>
-      </div>
-    </nav>
+        {' '}
+        {' '}
+        |
+        {' '}
+        <Link to="/Calculator">Calculator</Link>
+        {' '}
+        |
+        {' '}
+        <Link to="/Qoute">Qoute</Link>
+      </nav>
+    </div>
   );
 }
 

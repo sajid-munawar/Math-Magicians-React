@@ -1,6 +1,7 @@
 function Home() {
   return (
-    <div>
+    <div style={{ padding: '0px 10%' }}>
+      <h2>Welcome to our Page!</h2>
       <article>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
         saepe eveniet similique, nam optio labore quos hic omnis pariatur
